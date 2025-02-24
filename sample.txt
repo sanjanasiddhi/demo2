@@ -1,0 +1,20 @@
+Git=version ctrl + 
+
+//to add files to the staging area
+git add .
+
+//git status
+
+//git commit -m 'initial commit"
+
+//git commit -m "message"
+
+//to push local file to remote
+git push aliasname branchname (like master)
+
+//to know the branch name
+git branch 
+
+
+//to select a new branch
+git push aliasname developer1(new branch)
